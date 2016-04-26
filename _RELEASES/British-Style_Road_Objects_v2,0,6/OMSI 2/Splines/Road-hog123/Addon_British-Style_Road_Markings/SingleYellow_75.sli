@@ -1,0 +1,47 @@
+Spline created by Road_hog123 21.09.2015.
+This Spline Represents a Road Marking to Diagram 1017 - Single Yellow Line (75 mm wide Variant)
+
+---------------------------
+      Height Profiles
+---------------------------
+
+[heightprofile]
+-0.038
+0.038
+0.105
+0.105
+
+---------------------------
+         Textures
+---------------------------
+
+[texture]
+Y_1-0.tga
+
+[matl_alpha]
+1
+
+---------------------------
+     Graphical Lanes
+---------------------------
+
+[profile]
+0
+
+[profilepnt]
+-0.038
+0.105
+0.500
+0.167
+
+[profilepnt]
+0.000
+0.105
+0.483
+0.167
+
+[profilepnt]
+0.038
+0.105
+0.500
+0.167

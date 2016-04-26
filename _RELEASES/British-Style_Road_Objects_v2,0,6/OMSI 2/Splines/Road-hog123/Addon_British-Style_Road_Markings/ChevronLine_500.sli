@@ -1,0 +1,47 @@
+Spline created by Road_hog123 01.09.2014.
+This Spline Represents the diagonal part of the Road Marking to Diagram 1040.3 - Lane Dividing Chevrons (500 mm wide)
+
+---------------------------
+      Height Profiles
+---------------------------
+
+[heightprofile]
+-0.250
+0.250
+0.105
+0.105
+
+---------------------------
+         Textures
+---------------------------
+
+[texture]
+W_1-0.tga
+
+[matl_alpha]
+1
+
+---------------------------
+     Graphical Lanes
+---------------------------
+
+[profile]
+0
+
+[profilepnt]
+-0.250
+0.105
+0.500
+0.167
+
+[profilepnt]
+0.000
+0.105
+0.417
+0.167
+
+[profilepnt]
+0.250
+0.105
+0.500
+0.167

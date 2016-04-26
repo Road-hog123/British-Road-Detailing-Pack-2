@@ -1,0 +1,47 @@
+Spline created by Road_hog123 01.09.2014.
+This Spline Represents a Road Marking to Diagram 1012.1 - Edge Line (150 mm wide Variant)
+
+---------------------------
+      Height Profiles
+---------------------------
+
+[heightprofile]
+-0.100
+0.100
+0.105
+0.105
+
+---------------------------
+         Textures
+---------------------------
+
+[texture]
+W_1-0.tga
+
+[matl_alpha]
+1
+
+---------------------------
+     Graphical Lanes
+---------------------------
+
+[profile]
+0
+
+[profilepnt]
+-0.100
+0.105
+0.500
+0.167
+
+[profilepnt]
+0.000
+0.105
+0.467
+0.167
+
+[profilepnt]
+0.100
+0.105
+0.500
+0.167

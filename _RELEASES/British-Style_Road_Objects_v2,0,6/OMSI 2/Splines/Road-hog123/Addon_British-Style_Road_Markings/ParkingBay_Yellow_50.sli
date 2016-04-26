@@ -1,0 +1,47 @@
+Spline created by Road_hog123 29.11.2014.
+This Spline Represents a Road Marking to Diagram 1028 - Parking Bay Line (50 mm wide Variant)
+
+---------------------------
+      Height Profiles
+---------------------------
+
+[heightprofile]
+-0.025
+0.025
+0.105
+0.105
+
+---------------------------
+         Textures
+---------------------------
+
+[texture]
+Y_1-1.tga
+
+[matl_alpha]
+1
+
+---------------------------
+     Graphical Lanes
+---------------------------
+
+[profile]
+0
+
+[profilepnt]
+-0.025
+0.105
+0.500
+0.833
+
+[profilepnt]
+0.000
+0.105
+0.492
+0.833
+
+[profilepnt]
+0.025
+0.105
+0.500
+0.833

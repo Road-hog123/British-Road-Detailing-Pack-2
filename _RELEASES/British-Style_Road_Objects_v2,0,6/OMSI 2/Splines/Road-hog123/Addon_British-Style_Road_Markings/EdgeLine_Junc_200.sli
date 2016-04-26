@@ -1,0 +1,47 @@
+Spline created by Road_hog123 01.09.2014.
+This Spline Represents a Road Marking to Diagram 1009 - Edge Line across Junction (200 mm wide Variant)
+
+---------------------------
+      Height Profiles
+---------------------------
+
+[heightprofile]
+-0.100
+0.100
+0.105
+0.105
+
+---------------------------
+         Textures
+---------------------------
+
+[texture]
+W_2-1C.tga
+
+[matl_alpha]
+1
+
+---------------------------
+     Graphical Lanes
+---------------------------
+
+[profile]
+0
+
+[profilepnt]
+-0.100
+0.105
+0.500
+1.111
+
+[profilepnt]
+0.000
+0.105
+0.467
+1.111
+
+[profilepnt]
+0.100
+0.105
+0.500
+1.111
