@@ -1,0 +1,40 @@
+'#################################
+'UK Traffic Light for Road Traffic
+'#################################
+
+'Phases:
+' 0..2: Red
+' 3..5: Red + Yellow
+'  6  : Green (Main and Suplementary Aspects)
+'  7  : Green (Main Aspect Only)
+'  8  : Flashing Yellow
+'9..11: Yellow
+'Else : Off
+
+'(c) 2014 - Road-hog123
+
+'No requirements
+
+{init}
+	0 (S.L.Time_last)
+{end}
+
+{frame}
+	(L.L.TrafficLightPhase) s0
+	
+	l0 0 >= l0 5 <= && (S.L.main_Red)
+	l0 6 = l0 7 = || (S.L.main_Green)
+	l0 1 = l0 4 = || l0 7 = || (S.L.supp_Green)
+	
+	l0 8 =
+	{if}
+		(L.S.GetTime) (L.L.Time_last) - 0.375 >
+		{if}
+			(L.S.GetTime) (S.L.Time_last)
+			(L.L.main_Yellow) ! (S.L.main_Yellow)
+		{endif}
+	{else}
+		l0 3 >= l0 5 <= && l0 9 >= l0 11 <= && || (S.L.main_Yellow)
+	{endif}
+	
+{end}
