@@ -1,5 +1,5 @@
-Spline created by Road_hog123 01.09.2014.
-This Spline Represents a Road Marking to Diagram 1003 - Give Way Line
+Spline last edited by Road_hog123 19.04.2016.
+#### USE GiveWayLine_Norm.sli INSTEAD! THIS SPLINE WILL BE REMOVED IN THE NEXT RELEASE! ####
 
 ---------------------------
       Height Profiles
@@ -16,7 +16,7 @@ This Spline Represents a Road Marking to Diagram 1003 - Give Way Line
 ---------------------------
 
 [texture]
-W_2-1C.tga
+White.dds
 
 [matl_alpha]
 1
@@ -31,35 +31,26 @@ W_2-1C.tga
 [profilepnt]
 -0.350
 0.105
-0.500
-1.111
-
-[profilepnt]
--0.250
-0.105
-0.467
-1.111
+0.750
+0.370
 
 [profilepnt]
 -0.150
 0.105
-0.500
-1.111
+0.813
+0.370
+
+[profile]
+0
 
 [profilepnt]
 0.150
 0.105
-0.500
-1.111
-
-[profilepnt]
-0.250
-0.105
-0.467
-1.111
+0.750
+0.370
 
 [profilepnt]
 0.350
 0.105
-0.500
-1.111
+0.813
+0.370

@@ -1,0 +1,42 @@
+Spline last edited by Road_hog123 19.04.2016.
+Specified usage:
+- At non-signalled junctions where vehicles from the minor road are required to stop
+
+---------------------------
+      Height Profiles
+---------------------------
+
+[heightprofile]
+-0.200
+0.200
+0.100
+0.100
+
+---------------------------
+         Textures
+---------------------------
+
+[texture]
+White.dds
+
+[matl_alpha]
+1
+
+---------------------------
+     Graphical Lanes
+---------------------------
+
+[profile]
+0
+
+[profilepnt]
+-0.200
+0.105
+0.000
+0.167
+
+[profilepnt]
+0.200
+0.105
+0.156
+0.167

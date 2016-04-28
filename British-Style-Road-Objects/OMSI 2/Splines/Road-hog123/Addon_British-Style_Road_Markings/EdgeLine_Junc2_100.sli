@@ -1,0 +1,43 @@
+Spline last edited by Road_hog123 19.04.2016.
+This Spline Represents a Road Marking to Diagram 1009 - Edge Line across Cycle Lane Junction
+Specified usage:
+- Extends Give Way or Stop line markings across entry half of cycle track
+
+---------------------------
+      Height Profiles
+---------------------------
+
+[heightprofile]
+-0.050
+0.050
+0.100
+0.100
+
+---------------------------
+         Textures
+---------------------------
+
+[texture]
+White.dds
+
+[matl_alpha]
+1
+
+---------------------------
+     Graphical Lanes
+---------------------------
+
+[profile]
+0
+
+[profilepnt]
+-0.050
+0.105
+0.688
+0.556
+
+[profilepnt]
+0.050
+0.105
+0.719
+0.556

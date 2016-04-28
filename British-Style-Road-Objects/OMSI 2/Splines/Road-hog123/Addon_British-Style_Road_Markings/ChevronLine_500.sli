@@ -1,4 +1,4 @@
-Spline created by Road_hog123 01.09.2014.
+Spline last edited by Road_hog123 19.04.2016.
 This Spline Represents the diagonal part of the Road Marking to Diagram 1040.3 - Lane Dividing Chevrons (500 mm wide)
 
 ---------------------------
@@ -8,15 +8,15 @@ This Spline Represents the diagonal part of the Road Marking to Diagram 1040.3 -
 [heightprofile]
 -0.250
 0.250
-0.105
-0.105
+0.100
+0.100
 
 ---------------------------
          Textures
 ---------------------------
 
 [texture]
-W_1-0.tga
+White.dds
 
 [matl_alpha]
 1
@@ -31,17 +31,11 @@ W_1-0.tga
 [profilepnt]
 -0.250
 0.105
-0.500
-0.167
-
-[profilepnt]
 0.000
-0.105
-0.417
 0.167
 
 [profilepnt]
 0.250
 0.105
-0.500
+0.156
 0.167

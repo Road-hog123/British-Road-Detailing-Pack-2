@@ -1,0 +1,43 @@
+Spline last edited by Road_hog123 19.04.2016.
+This Spline Represents a Road Marking often used at mini roundabouts
+This spline has no specified usage, however:
+- Local authorities like to use this spline for give way lines at mini roundabouts, even though it isn't specified to do so...
+
+---------------------------
+      Height Profiles
+---------------------------
+
+[heightprofile]
+-0.100
+0.100
+0.105
+0.105
+
+---------------------------
+         Textures
+---------------------------
+
+[texture]
+White.dds
+
+[matl_alpha]
+1
+
+---------------------------
+     Graphical Lanes
+---------------------------
+
+[profile]
+0
+
+[profilepnt]
+-0.100
+0.105
+0.594
+0.333
+
+[profilepnt]
+0.100
+0.105
+0.656
+0.333

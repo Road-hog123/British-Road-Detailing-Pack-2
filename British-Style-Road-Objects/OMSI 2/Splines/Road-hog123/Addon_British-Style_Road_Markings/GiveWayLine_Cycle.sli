@@ -1,0 +1,59 @@
+Spline last edited by Road_hog123 19.04.2016.
+This Spline Represents a Road Marking to Diagram 1003 - Give Way Line (Cycle)
+Specified usage:
+- Where cyclists from a cycle lane must give way to traffic
+- The full size variant should be used for normal roads
+
+---------------------------
+      Height Profiles
+---------------------------
+
+[heightprofile]
+-0.175
+0.175
+0.105
+0.105
+
+---------------------------
+         Textures
+---------------------------
+
+[texture]
+White.dds
+
+[matl_alpha]
+1
+
+---------------------------
+     Graphical Lanes
+---------------------------
+
+[profile]
+0
+
+[profilepnt]
+-0.175
+0.105
+0.750
+0.741
+
+[profilepnt]
+-0.075
+0.105
+0.813
+0.741
+
+[profile]
+0
+
+[profilepnt]
+0.075
+0.105
+0.750
+0.741
+
+[profilepnt]
+0.175
+0.105
+0.813
+0.741

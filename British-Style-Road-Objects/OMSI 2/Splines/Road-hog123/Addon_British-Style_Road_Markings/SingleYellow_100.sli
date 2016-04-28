@@ -1,5 +1,14 @@
-Spline created by Road_hog123 16.02.2015.
-This Spline Represents a Road Marking to Diagram 1017 - Single Yellow Line (100 mm wide Variant)
+Spline last edited by Road_hog123 19.04.2016.
+This Spline Represents a Road Marking to Diagram 1017 - Single Yellow Line (100 mm wide)
+Specified usage:
+- To indicate that parking and stopping is prohibited for less than 4 months of the year
+- 50 mm for environmentally sensitive areas
+- 75 mm for roads with speed limits of 40 mph or less
+- 100 mm for roads with speed limits higher than 40 mph
+Other local-authority uses:
+- 100 mm is used essentially everywhere, 75 mm is quite rare
+
+Note: The markings should be laid with a 250 mm gap between them and the edge of the carriageway
 
 ---------------------------
       Height Profiles
@@ -8,15 +17,15 @@ This Spline Represents a Road Marking to Diagram 1017 - Single Yellow Line (100 
 [heightprofile]
 -0.050
 0.050
-0.105
-0.105
+0.100
+0.100
 
 ---------------------------
          Textures
 ---------------------------
 
 [texture]
-Y_1-0.tga
+Yellow.dds
 
 [matl_alpha]
 1
@@ -35,13 +44,7 @@ Y_1-0.tga
 0.167
 
 [profilepnt]
-0.000
-0.105
-0.483
-0.167
-
-[profilepnt]
 0.050
 0.105
-0.500
+0.625
 0.167

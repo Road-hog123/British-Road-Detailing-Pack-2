@@ -1,5 +1,10 @@
-Spline created by Road_hog123 01.09.2014.
-This Spline Represents a Road Marking to Diagram 1008 - 6 metre Line (150 mm wide Variant)
+Spline last edited by Road_hog123 19.04.2016.
+This Spline Represents a Road Marking to Diagram 1008 - Centre Line (150 mm wide)
+Specified usage:
+- Separating opposing traffic flows where overtaking is safe (see CentreLine Warn)
+- This variant to be used where speed limits are 40 mph or less
+- This 150 mm variant should be used on roads more than 10 metres wide or with 3 or more lanes
+- The "Norm2" variant should be used where speed limits are higher than 40 mph
 
 ---------------------------
       Height Profiles
@@ -8,15 +13,15 @@ This Spline Represents a Road Marking to Diagram 1008 - 6 metre Line (150 mm wid
 [heightprofile]
 -0.075
 0.075
-0.105
-0.105
+0.100
+0.100
 
 ---------------------------
          Textures
 ---------------------------
 
 [texture]
-W_1-2A.tga
+White.dds
 
 [matl_alpha]
 1
@@ -31,17 +36,11 @@ W_1-2A.tga
 [profilepnt]
 -0.075
 0.105
-0.500
-0.167
-
-[profilepnt]
-0.000
-0.105
-0.475
+0.406
 0.167
 
 [profilepnt]
 0.075
 0.105
-0.500
+0.438
 0.167

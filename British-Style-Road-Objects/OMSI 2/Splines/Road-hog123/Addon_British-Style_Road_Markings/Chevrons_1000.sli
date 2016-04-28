@@ -1,5 +1,5 @@
-Spline created by Road_hog123 21.02.2015.
-This Spline Represents the Road Marking to Diagram 1040.2 - Lane Dividing Chevrons (1 m wide)
+Spline last edited by Road_hog123 19.04.2016.
+This Spline Represents the Road Marking to Diagram 1040.2 - Lane Dividing Hatching (1.0 m wide)
 
 ---------------------------
       Height Profiles
@@ -8,21 +8,21 @@ This Spline Represents the Road Marking to Diagram 1040.2 - Lane Dividing Chevro
 [heightprofile]
 -0.500
 0.500
-0.105
-0.105
+0.100
+0.100
 
 ---------------------------
          Textures
 ---------------------------
 
 [texture]
-W_2-1A.tga
+White.dds
 
 [matl_alpha]
 1
 
 [texture]
-W_Chevron.tga
+Hatching.dds
 
 [matl_alpha]
 1
@@ -37,19 +37,13 @@ W_Chevron.tga
 [profilepnt]
 -0.500
 0.105
-0.500
-0.167
-
-[profilepnt]
--0.450
-0.105
-0.483
+0.344
 0.167
 
 [profilepnt]
 -0.400
 0.105
-0.500
+0.375
 0.167
 
 [profile]
@@ -58,13 +52,13 @@ W_Chevron.tga
 [profilepnt]
 -0.300
 0.105
-0.000
+0.200
 0.167
 
 [profilepnt]
 0.300
 0.105
-0.200
+0.000
 0.167
 
 [profile]
@@ -73,17 +67,11 @@ W_Chevron.tga
 [profilepnt]
 0.400
 0.105
-0.500
-0.167
-
-[profilepnt]
-0.450
-0.105
-0.483
+0.344
 0.167
 
 [profilepnt]
 0.500
 0.105
-0.500
+0.375
 0.167

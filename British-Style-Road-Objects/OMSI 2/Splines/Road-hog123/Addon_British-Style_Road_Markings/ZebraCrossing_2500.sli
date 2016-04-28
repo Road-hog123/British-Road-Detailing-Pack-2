@@ -1,0 +1,41 @@
+Spline last edited by Road_hog123 19.04.2016.
+This Spline Represents a Zebra Crossing 2.5 m wide
+
+---------------------------
+      Height Profiles
+---------------------------
+
+[heightprofile]
+-1.250
+1.250
+0.105
+0.105
+
+---------------------------
+         Textures
+---------------------------
+
+[texture]
+Zebra.dds
+
+[matl_alpha]
+1
+
+---------------------------
+     Graphical Lanes
+---------------------------
+
+[profile]
+0
+
+[profilepnt]
+-1.250
+0.105
+0.000
+0.500
+
+[profilepnt]
+1.250
+0.105
+0.800
+0.500

@@ -1,5 +1,14 @@
-Spline created by Road_hog123 01.09.2014.
-This Spline Represents a Road Marking to Diagram 1004 - 6 metre Warning Line (100 mm wide Variant)
+Spline last edited by Road_hog123 19.04.2016.
+This Spline Represents a Road Marking to Diagram 1004 - Warning Centre Line (100 mm wide)
+Specified usage:
+- Replaces Diagram 1008 where road users need to be warned of a danger that affects overtaking, e.g.:
+	- Road bends
+	- Crests
+	- Central refuges
+	- Crossings and junctions
+- This variant to be used where speed limits are 40 mph or less
+- The 150 mm variant should be used on roads more than 10 metres wide or with multiple lanes
+- The "Warn2" variant should be used where speed limits are higher than 40 mph
 
 ---------------------------
       Height Profiles
@@ -8,15 +17,15 @@ This Spline Represents a Road Marking to Diagram 1004 - 6 metre Warning Line (10
 [heightprofile]
 -0.050
 0.050
-0.105
-0.105
+0.100
+0.100
 
 ---------------------------
          Textures
 ---------------------------
 
 [texture]
-W_2-1A.tga
+White.dds
 
 [matl_alpha]
 1
@@ -31,17 +40,11 @@ W_2-1A.tga
 [profilepnt]
 -0.050
 0.105
-0.500
-0.167
-
-[profilepnt]
-0.000
-0.105
-0.483
+0.344
 0.167
 
 [profilepnt]
 0.050
 0.105
-0.500
+0.375
 0.167

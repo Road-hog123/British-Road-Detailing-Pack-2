@@ -1,5 +1,5 @@
-Spline created by Road_hog123 28.09.2015.
-This Spline Represents a Zebra Crossing 3000 mm wide.
+Spline last edited by Road_hog123 19.04.2016.
+This Spline Represents a Zebra Crossing 3.0 m wide
 
 ---------------------------
       Height Profiles
@@ -16,7 +16,7 @@ This Spline Represents a Zebra Crossing 3000 mm wide.
 ---------------------------
 
 [texture]
-W_1-1.tga
+Zebra.dds
 
 [matl_alpha]
 1
@@ -32,10 +32,10 @@ W_1-1.tga
 -1.500
 0.105
 0.000
-1.000
+0.500
 
 [profilepnt]
 1.500
 0.105
-0.500
 1.000
+0.500

@@ -1,13 +1,18 @@
-Spline created by Road_hog123 29.11.2014.
-This Spline Represents a Road Marking to Diagram 1028 - Parking Bay Line (75 mm wide Variant)
+Spline last edited by Road_hog123 19.04.2016.
+This Spline Represents a Road Marking to Diagram 1028 - Parking Bay Line (75 mm wide)
+Specified usage:
+- Outlining parking bays that are allocated to Taxis, Ambulances or Police
+- 50 mm standard
+- 75 mm where greater emphasis is required
+- 100 mm where there is block-paving
 
 ---------------------------
       Height Profiles
 ---------------------------
 
 [heightprofile]
--0.025
-0.025
+-0.038
+0.038
 0.105
 0.105
 
@@ -16,7 +21,7 @@ This Spline Represents a Road Marking to Diagram 1028 - Parking Bay Line (75 mm 
 ---------------------------
 
 [texture]
-Y_1-1.tga
+Yellow.dds
 
 [matl_alpha]
 1
@@ -31,17 +36,11 @@ Y_1-1.tga
 [profilepnt]
 -0.038
 0.105
-0.500
-0.833
-
-[profilepnt]
-0.000
-0.105
-0.487
-0.833
+0.750
+0.277
 
 [profilepnt]
 0.038
 0.105
-0.500
-0.833
+0.875
+0.277

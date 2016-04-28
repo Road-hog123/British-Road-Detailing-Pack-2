@@ -1,0 +1,43 @@
+Spline last edited by Road_hog123 19.04.2016.
+This Spline Represents a Road Marking to Diagram 1012.1 - Bus Lane (250 mm wide)
+Specified usage:
+- Delineating a bus lane
+
+---------------------------
+      Height Profiles
+---------------------------
+
+[heightprofile]
+-0.125
+0.125
+0.105
+0.105
+
+---------------------------
+         Textures
+---------------------------
+
+[texture]
+White.dds
+
+[matl_alpha]
+1
+
+---------------------------
+     Graphical Lanes
+---------------------------
+
+[profile]
+0
+
+[profilepnt]
+-0.125
+0.105
+0.188
+0.167
+
+[profilepnt]
+0.125
+0.105
+0.250
+0.167

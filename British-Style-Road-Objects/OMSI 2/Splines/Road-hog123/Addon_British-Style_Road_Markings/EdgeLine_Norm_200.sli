@@ -1,5 +1,12 @@
-Spline created by Road_hog123 01.09.2014.
-This Spline Represents a Road Marking to Diagram 1012.1 - Edge Line (150 mm wide Variant)
+Spline last edited by Road_hog123 19.04.2016.
+This Spline Represents a Road Marking to Diagram 1012.1 - Edge Line (200 mm wide)
+Specified usage:
+- Defines the edge of a carriageway
+- 100 mm when there is no hard shoulder or hard strip and the speed limit is less than 70 mph
+- 150 mm when there is no hard shoulder or hard strip and the speed limit is 70 mph
+- 150 mm when there is a hard shoulder or hard strip and the speed limit is less than 70 mph
+- 200 mm when there is a hard shoulder or hard strip and the speed limit is 70 mph
+- 200 mm on motorways regardless of other conditions
 
 ---------------------------
       Height Profiles
@@ -16,7 +23,7 @@ This Spline Represents a Road Marking to Diagram 1012.1 - Edge Line (150 mm wide
 ---------------------------
 
 [texture]
-W_1-0.tga
+White.dds
 
 [matl_alpha]
 1
@@ -31,17 +38,11 @@ W_1-0.tga
 [profilepnt]
 -0.100
 0.105
-0.500
-0.167
-
-[profilepnt]
-0.000
-0.105
-0.467
+0.188
 0.167
 
 [profilepnt]
 0.100
 0.105
-0.500
+0.250
 0.167
