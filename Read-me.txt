@@ -1,25 +1,96 @@
-BSRO v2.0.5b:
-Thank you for downloading this pack of British-Style Road Objects made by me, Road-hog123.
+## BRDP v2.1.0:
+British Road Detailing Pack Version 2.1.0 for Omsi 2.
+Thank you for downloading this pack of British roads, markings, signs and clutter made by me, Road-hog123.
 
 All signs and road markings contained within this pack are made to conform as closely as possible to the DfT standards.
+All road marking splines include usage guidelines at the top of the file to advise on how to use them.
 
-Notes:
-- This pack has been made for Omsi 2 and WILL NOT WORK with Omsi 1.
-- This pack is NOT COMPATIBLE with any previous versions of my pack. It is standalone and WILL NOT WORK as a replacement to version 1.5.3 of the pack for all Omsi 1 maps and maps released before 16th February 2015.
-- I cannot be held personally responsible if the installation of this pack breaks any other mods, maps or your Omsi installation.
 
-Installation:
-- Locate your Omsi 2 installation directory (by default "C:\Program Files (x86)\Steam\steamapps\common\OMSI 2\" for 64-bit Windows systems).
-- If you have a previous installation of this pack, I would advise its removal before the installation of a new version.
-- Copy the contents of the "OMSI 2" folder into the "OMSI 2" folder that is your install directory.
-- Unless you have installed any pre-releases of this pack, you should not need to overwrite any files.
+### NOTES:
+- This pack has been made for Omsi 2 and WILL NOT WORK with Omsi 1 (it uses splines with transparency, a feature implemented in Omsi 2)
+- I cannot be held personally responsible if the installation of this pack directly or indirectly results in the breaking of your Omsi installation, (an) installed map(s) or loss of data.
 
-Redistribution:
-It is ok to include the COMPLETE and UNALTERED contents of this zip file along with your FREEWARE map download. However, it is FORBIDDEN to reupload this pack on its own, claim my work as your own, sell any part of this download, redistribute an edited version of this pack, redistribute content that uses any part of this download in any way that is not intended, or to redistribute this pack in any method that is illegal under British Law or the Law of the country you reside in.
-You are welcome to use my content in a payware map, however my pack MUST NOT be included in the paid download and instead a link should be included to my pack as a dependency of your map.
-If linking to the original download along with your map, ensure that you are linking to the correct download page, and not the 1.5.3 page.
 
-Changelog:
+### INSTALLATION:
+1. Locate your Omsi 2 installation directory (by default "C:\Program Files (x86)\Steam\steamapps\common\OMSI 2\" on 64-bit Windows systems or "C:\Program Files\Steam\steamapps\common\OMSI 2\" on 32-bit Windows).
+2. If a previous version of my pack is installed (i.e. the "Road-hog123" directory is present in either Sceneryobjects or Splines), remove it before installing this version. Note that in doing so you get a "proper" clean install of this pack with no extra files, but as such you may break maps that utilise files that have been depreciated and removed. (See Redistribution if you're a map maker and want to avoid this).
+3. Copy the contents of the "OMSI 2" folder included in this ZIP archive into the "OMSI 2" folder you identified as your Omsi 2 installation directory.
+4. If you have to overwrite files, you have either not removed a previous copy or are installing the pack into the wrong location.
+
+
+### TROUBLESHOOTING:
+- If the installation of this pack breaks your Omsi install, you've done something wrong. It's not meant to do that. Undo what you did and try again reading the installation instructions carefully.
+- If the installation of this pack breaks an installed map, sorry. Check if the map has an update that fixes problem with this release. If it does not, then you will either have to revert the pack to an earlier release, edit the map yourself to fix the problems or make the map work with its own copy of the pack (see redistribution with a map).
+- If there are missing files, corrupt files or otherwise broken files, check if these problems have been reported on the download thread(s). If they have, follow any fix instructions given or wait until a fixed release. If not, in the case of data corruption, you download may have corrupted and you should try re-downloading and installing again. If you believe the problem to lie with the release, please report it to me such that I may fix the problem.
+
+
+### REDISTRIBUTION:
+# Unchanged with a freeware or payware map:
+EITHER:
+- (recommended) Link to the download page and keep your map up-to-date with new releases of this pack. This means that your map can benefit from optimisations and improvements in future releases.
+OR:
+- If you are unlikely to update the map in the future, are worried about users failing to download the file or are selling the map on Steam or similar, you may include this content inside your map download. If you do, the pack should be included in a subdirectory (e.g. "\Sceneryobjects\YourMap\Road-hog123\"). This keeps your map's copy safe from being updated and your old version won't overwrite future versions.
+
+# Modified with a freeware or payware map:
+- You MUST include your modified content in a separate subdirectory of Sceneryobjects and/or Splines (e.g. "\Sceneryobjects\YourMap\Road-hog123\") such that your modifications do not overwrite my files and/or affect other maps.
+
+# Unchanged independent of a map:
+- Link to the download page. The download page is mirrored on aussiex.org and forums.fellowsfilm.co.uk and a further two direct download links are provided from Dropbox and GitHub if the download hosting is down, so there's no need to upload the file anywhere else.
+- Uploading this pack elsewhere also means that that download won't be updated when I release a new version.
+
+# Modified independent of a map:
+- You MUST include your modified content in a separate subdirectory of Sceneryobjects and/or Splines (e.g. "\Sceneryobjects\YourName\Road-hog123\") such that your modifications do not overwrite my files and/or affect other maps.
+- You should make it clear that you've merely edited my content and did not originally create the content.
+- You can sell your modifications if you want, but my pack is free, so they'd better be good modifications for people to want to buy them.
+
+# Unchanged independent of a map as payware:
+- This pack is released by me for free. I'm not going to stop you, but who's going to buy something that they can download for free?
+
+# Claiming my content as your own:
+- If you claim this pack that I made myself as something you made, you're not a nice person and you should feel bad. Shame on you.
+- If you also include this file unchanged, which lists "Road-hog123" as the creator of this pack and not you, you're also an idiot.
+
+
+### CHANGELOG:
+2.1.0:
+# Marking splines:
+- Halved polycount of all road marking splines
+- Road marking textures merged into two DDS textures, 256*256 px and 64*256 px
+- Reduced or eliminated bump when driving over road marking splines (moved collision mesh down 2 cm with *.surf files)
+- Removed duplicate splines:
+    CentreLine_Warning_100.sli => CentreLine_Warn_100.sli
+    CentreLine_Warning_150.sli => CentreLine_Warn_150.sli
+    CentreLine_Warning2_100.sli => CentreLine_Warn2_100.sli
+    CentreLine_Warning2_150.sli => CentreLine_Warn2_150.sli
+    SolidLine_500.sli => ChevronLine_500.sli
+- Chevrons_####.sli flipped to correct orientation (but still hatchings instead of chevrons)
+- Chevrons_inv_####.sli created (equivalent to original splines)
+- Chevrons_both_####.sli created (actually chevrons)
+- Stop_Line.sli deprecated (use StopLine.sli, SignalLine_200.sli or SignalLine_300.sli instead)
+- Give_Way_Line.sli deprecated (use GiveWayLine_Norm.sli instead)
+- GiveWayLine_Cycle.sli and GiveWayLine_MiniRbt.sli created for cycle lanes and mini roundabouts respectively
+- Created CentreLine_Lane2_100.sli and CentreLine_Lane2_150.sli for delimiting lanes on roads with speed limits higher than 40 mph
+- Created EdgeLine_Junc2_100.sli for entry half of cycle lane give-way markings
+- Created EdgeLine_Norm_250.sli and EdgeLine_Norm_300.sli for delineating bus lanes
+- Created StopLine.sli (that's actually a stop line)
+- Created SignalLine_200.sli and SignalLine_300.sli for traffic signal stop lines
+- Created ZebraCrossing_2500.sli and ZebraCrossing_4000.sli
+# Marking objects:
+- Road marking textures merged into two DDS textures, 256*256 px and 64*256 px
+- Fixed marking objects rendering above vehicle shadows
+- New markings font (realistically inaccurate)
+- Prefab marking polys redistributed to remove excess and improve lighting
+- Text and symbol marking textures converted to DDS
+# Signs:
+- Bracket_Med.sco created (slightly longer to allow mounting multiple traffic lights per pole more neatly)
+- Bracket_Long.sco now has a third attachment point not at 90°
+# Traffic Lights:
+- Added Optical Traffic lights
+# Clutter:
+- Created Fence_Wood_A.sli and Fence_Wood_B.sli
+- ClearChannel "Insignia" bus stop shelters in several configurations
+- Small Bus Stop Flag for mounting to aforementioned bus stop shelters
+
 2.0.6:
 - 50mm and 75mm double yellow variants
 - Reflective edge/verge marker
@@ -68,4 +139,4 @@ Known Bugs:
 
 Once again, thank you for downloading this pack. Enjoy! :)
 
-This pack contents (c) Copyright 2015 - Nathan Burnham (Road-hog123).
+This pack contents (c) Copyright 2016 - Nathan Burnham ("Road-hog123").
