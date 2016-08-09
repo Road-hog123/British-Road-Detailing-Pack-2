@@ -1,0 +1,29 @@
+Spline last edited by Road_hog123 05.06.2016.
+Red route single red line.
+
+[heightprofile]
+-0.050
+0.050
+0.100
+0.100
+
+[texture]
+Red.dds
+
+[matl_alpha]
+1
+
+[profile]
+0
+
+[profilepnt]
+-0.050
+0.105
+0.500
+0.167
+
+[profilepnt]
+0.050
+0.105
+0.625
+0.167

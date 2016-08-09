@@ -6,7 +6,7 @@ Road Signs
 Directional
 
 [friendlyname]
-Flag-type Direction Sign (1 Destination, Left)
+Flag-type Direction (1 Destination, Left)
 
 [texttexture_enh]
 0
@@ -29,8 +29,8 @@ Transport Heavy
 35
 31
 32
-2
-1
+5
+0
 
 [mesh]
 Finger1L.o3d

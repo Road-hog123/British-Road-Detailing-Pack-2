@@ -8,19 +8,18 @@ Road Markings
 End of Bus Lane Arrow (Left)
 
 [mesh]
-Bus_Arrow_L.o3d
+Arrow_Bus_L_Left.o3d
 
 [nocollision]
 
 [matl]
-symbols.tga
+symbols.dds
 0
 
 [matl_alpha]
 2
 
 [rendertype]
-4
+on_surface
 
-[matl_noZwrite]
-2
+[LightMapMapping]

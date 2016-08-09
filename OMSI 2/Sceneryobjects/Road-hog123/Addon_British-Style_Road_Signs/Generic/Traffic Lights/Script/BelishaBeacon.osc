@@ -8,8 +8,6 @@
 
 '(c) 2015 - Road-hog123
 
-'No requirements
-
 {frame}
 	(L.L.TrafficLightPhase) 12 = ! (S.L.on)
 {end}

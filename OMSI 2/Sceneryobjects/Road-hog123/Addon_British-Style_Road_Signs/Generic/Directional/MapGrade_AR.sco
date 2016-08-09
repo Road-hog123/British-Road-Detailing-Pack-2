@@ -6,7 +6,7 @@ Road Signs
 Directional
 
 [friendlyname]
-A-Road Grade-Separated Junction Sign (Right)
+A-Road Grade-Separated Junction (Right)
 
 [texttexture_enh]
 0

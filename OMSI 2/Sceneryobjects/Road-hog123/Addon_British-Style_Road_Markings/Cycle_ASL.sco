@@ -8,19 +8,16 @@ Road Markings
 Cycle Symbol (Advanced Stop Line)
 
 [mesh]
-Cycle_A.o3d
+Cycle_ASL.o3d
 
 [nocollision]
 
 [matl]
-symbols.tga
+symbols.dds
 0
 
 [matl_alpha]
 2
 
 [rendertype]
-4
-
-[matl_noZwrite]
-2
+on_surface

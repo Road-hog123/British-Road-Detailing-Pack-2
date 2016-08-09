@@ -13,14 +13,11 @@ Arrow_Straight.o3d
 [nocollision]
 
 [matl]
-symbols.tga
+symbols.dds
 0
 
 [matl_alpha]
 2
 
 [rendertype]
-4
-
-[matl_noZwrite]
-2
+on_surface

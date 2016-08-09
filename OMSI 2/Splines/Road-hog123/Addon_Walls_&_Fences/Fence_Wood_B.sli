@@ -1,0 +1,25 @@
+This fence spline was created by Road-hog123, 09.03.2016
+
+[texture]
+Fence_Wood_B.dds
+
+[profile]
+0
+
+[profilepnt]
+0.000
+0.000
+0.000
+0.526
+
+[profilepnt]
+0.000
+1.700
+0.883
+0.526
+
+[profilepnt]
+0.000
+0.000
+0.000
+0.526

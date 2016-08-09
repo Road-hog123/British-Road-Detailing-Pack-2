@@ -6,7 +6,7 @@ Road Signs
 Directional
 
 [friendlyname]
-Route Confirmatory Sign (2 Destinations)
+Route Confirmatory (2 Destinations)
 
 [texttexture]
 0

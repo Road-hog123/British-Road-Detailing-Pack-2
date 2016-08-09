@@ -1,4 +1,4 @@
-File created by Road-hog123, 21.09.2015
+File created by Road-hog123, 06.06.2016
 
 [groups]
 3
@@ -9,39 +9,10 @@ Clutter
 [friendlyname]
 Railings 01
 
---------------------------
-
-[detail_factor]
-0.5
-
-[complexity]
-2
-
-[LOD]
-0.05
-
 [mesh]
 Railings01.o3d
 
-[matl]
-Railings01.tga
-0
-
-[matl_alpha]
-2
-
-[LOD]
-0
-
-[mesh]
-Railings01_LOD.o3d
-
-[matl]
-Railings01.tga
-0
-
-[matl_alpha]
-2
+[shadow]
 
 [boundingbox]
 0.050
@@ -53,3 +24,8 @@ Railings01.tga
 
 [fixed]
 
+[detail_factor]
+0.5
+
+[complexity]
+2

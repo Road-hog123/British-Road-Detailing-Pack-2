@@ -10,8 +10,6 @@
 
 '(c) 2014 - Road-hog123
 
-'No requirements
-
 {init}
 	0 (S.L.Time_last)
 {end}

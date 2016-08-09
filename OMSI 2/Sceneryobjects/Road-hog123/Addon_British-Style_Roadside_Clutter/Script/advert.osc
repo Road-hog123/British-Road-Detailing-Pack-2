@@ -1,0 +1,9 @@
+' Randomly selects an advert to display on the shelter.
+' The value here must be equal to the number of adverts that are to appear on the shelter (any additional show with no advert):
+{init}
+	14 random (S.L.Advert1)
+	14 random (S.L.Advert2)
+{end}
+
+{frame}
+{end}

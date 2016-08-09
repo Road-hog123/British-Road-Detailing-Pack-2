@@ -6,7 +6,7 @@ Road Signs
 Directional
 
 [friendlyname]
-A-Road Flag-type Direction Sign (2 Destinations, Left)
+A-Road Flag-type Direction (2 Destinations, Left)
 
 [texttexture_enh]
 0

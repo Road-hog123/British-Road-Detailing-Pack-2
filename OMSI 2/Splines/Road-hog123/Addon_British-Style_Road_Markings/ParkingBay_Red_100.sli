@@ -1,0 +1,29 @@
+Spline last edited by Road_hog123 05.06.2016.
+Red route parking bay line.
+
+[heightprofile]
+-0.050
+0.050
+0.105
+0.105
+
+[texture]
+Red.dds
+
+[matl_alpha]
+1
+
+[profile]
+0
+
+[profilepnt]
+-0.050
+0.105
+0.750
+0.277
+
+[profilepnt]
+0.050
+0.105
+0.875
+0.277

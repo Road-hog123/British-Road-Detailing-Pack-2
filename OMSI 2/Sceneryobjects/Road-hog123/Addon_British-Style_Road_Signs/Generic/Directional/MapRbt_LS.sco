@@ -6,7 +6,7 @@ Road Signs
 Directional
 
 [friendlyname]
-Map-type Roundabout Sign (Left and Straight)
+Map-type Roundabout (Left and Straight)
 
 [texttexture_enh]
 0

@@ -8,19 +8,18 @@ Road Markings
 Bifurcation Arrow (Large)
 
 [mesh]
-Arrow_Bifurcation_Large.o3d
+Arrow_Bifurcation_Large_L.o3d
 
 [nocollision]
 
 [matl]
-symbols.tga
+symbols.dds
 0
 
 [matl_alpha]
 2
 
 [rendertype]
-4
+on_surface
 
-[matl_noZwrite]
-2
+[LightMapMapping]

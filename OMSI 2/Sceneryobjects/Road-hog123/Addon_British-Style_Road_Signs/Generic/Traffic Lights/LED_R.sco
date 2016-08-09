@@ -10,7 +10,7 @@ LED Traffic Light (Right Only)
 [trafficlight]
 
 [mesh]
-main.o3d
+LED_main.o3d
 
 [shadow]
 
@@ -24,21 +24,21 @@ main.o3d
 0
 0
 1
-1
+0
 0
 255
 0
 0
 0.2
-20
 50
+80
 main_Red
 1
 0
 0
 0
 0
-main.bmp
+main.dds
 
 [light_enh_2]
 0
@@ -50,21 +50,21 @@ main.bmp
 0
 0
 1
-1
+0
 0
 255
 157
 35
 0.2
-20
 50
+80
 main_Yellow
 1
 0
 0
 0
 0
-main.bmp
+main.dds
 
 [light_enh_2]
 0
@@ -76,27 +76,27 @@ main.bmp
 0
 0
 1
-1
+0
 0
 86
 255
 211
 0.2
-20
 50
+80
 main_Green
 1
 0
 0
 0
 0
-arrow_R.bmp
+arrow_R.dds
 
 [mesh]
-asp_R.o3d
+LED_asp_R.o3d
 
 [matl]
-traf_LED.tga
+traf_LED.dds
 0
 
 [matl_alpha]
@@ -107,10 +107,10 @@ main_Red
 1
 
 [mesh]
-asp_Y.o3d
+LED_asp_Y.o3d
 
 [matl]
-traf_LED.tga
+traf_LED.dds
 0
 
 [matl_alpha]
@@ -121,10 +121,10 @@ main_Yellow
 1
 
 [mesh]
-asp_GR.o3d
+LED_asp_GR.o3d
 
 [matl]
-traf_LED.tga
+traf_LED.dds
 0
 
 [matl_alpha]
@@ -147,15 +147,18 @@ script\traf_car_varlist.txt
 0.335
 1.030
 0
-0.168
+-0.168
 -0.310
-
-
-	Detail-Faktor: hiermit kann eingestellt werden, ob das Objekt als grˆﬂer oder kleiner angenommen wird.
-	Der Wert wird einfach mit dem in den Graphik-Optionen eingestellten Wert multipliziert, d.h.:
-	* 0.5 = Objekt wird bereits dargestellt, wenn es nur halb so groﬂ ist, wie der eingestellte Wert
-	* 1.0 = Objekt erscheint genau dann, wenn es so groﬂ ist wie eingestellt
-	* 2.0 = Objekt erscheint erst dann, wenn es schon doppelt so groﬂ ist wie eingestellt.
 
 [detail_factor]
 0.1
+
+[new_attachment]
+
+attach_rot_z
+0
+
+attach_trans
+0.000
+0.000
+0.000

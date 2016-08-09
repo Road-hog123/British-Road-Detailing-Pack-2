@@ -3,7 +3,7 @@
 Road-hog123
 Road Objects
 Road Markings
-Prefab Markings
+_Prefab Markings
 
 [friendlyname]
 ZigZags for Pedestrian Crossings (Section)
@@ -14,13 +14,13 @@ PedZigZag.o3d
 [nocollision]
 
 [matl]
-W_1-1.tga
+White.dds
 0
 
 [matl_alpha]
-2
+1
 
 [rendertype]
-4
+on_surface
 
-[matl_noZwrite]
+[LightMapMapping]

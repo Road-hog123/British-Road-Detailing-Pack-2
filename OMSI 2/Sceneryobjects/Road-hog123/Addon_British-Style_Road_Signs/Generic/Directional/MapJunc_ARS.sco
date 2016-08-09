@@ -6,7 +6,7 @@ Road Signs
 Directional
 
 [friendlyname]
-A-Road Map-type Junction Sign (Right and Straight)
+A-Road Map-type Junction (Right and Straight)
 
 [texttexture_enh]
 0

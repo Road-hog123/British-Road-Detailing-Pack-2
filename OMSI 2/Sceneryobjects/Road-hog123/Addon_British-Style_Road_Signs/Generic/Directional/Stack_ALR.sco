@@ -6,7 +6,7 @@ Road Signs
 Directional
 
 [friendlyname]
-A-Road Stack-Type Direction Sign (2 Lines, Left and Right)
+A-Road Stack-Type Direction (2 Lines, Left and Right)
 
 [texttexture]
 0

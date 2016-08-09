@@ -5,22 +5,21 @@ Road Objects
 Road Markings
 
 [friendlyname]
-Bifurcation Arrow
+Bifurcation Arrow (Medium)
 
 [mesh]
-Arrow_Bifurcation.o3d
+Arrow_Bifurcation_Medium_L.o3d
 
 [nocollision]
 
 [matl]
-symbols.tga
+symbols.dds
 0
 
 [matl_alpha]
 2
 
 [rendertype]
-4
+on_surface
 
-[matl_noZwrite]
-2
+[LightMapMapping]

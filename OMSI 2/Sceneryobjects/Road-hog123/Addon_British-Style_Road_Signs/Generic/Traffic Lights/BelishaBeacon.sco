@@ -1,4 +1,4 @@
-File created by Road-hog123 26.02.2015.
+Object last edited by Road-hog123 29.07.2016.
 
 [groups]
 3
@@ -15,14 +15,14 @@ Belisha Beacon
 BelishaBeacon.o3d
 
 [matl_change]
-BelishaBeacon.bmp
+BelishaBeacon.dds
 0
 on
 
 [matl_item]
 
 [matl_nightmap]
-BelishaBeacon_ON.bmp
+BelishaBeacon_ON.dds
 
 [light_enh_2]
 0

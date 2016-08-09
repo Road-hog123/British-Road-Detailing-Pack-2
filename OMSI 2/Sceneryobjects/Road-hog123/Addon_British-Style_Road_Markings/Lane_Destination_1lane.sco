@@ -5,25 +5,30 @@ Road Objects
 Road Markings
 
 [friendlyname]
-1 Lane Lane Destination
+Lane Destination (Single Lane)
 
 [texttexture]
 0
-Transport Road
+Lane Destination
 320
-732
+600
+1
 0
-193
-194
-195
+0
+0
 
 [mesh]
-Lane_Dest_1lane.o3d
-
-[nocollision]
+Destination_1lane.o3d
 
 [matl]
-text.bmp
+TextSnowCovering.dds
+0
+
+[matl_alpha]
+2
+
+[matl]
+Textfield.dds
 0
 
 [matl_alpha]
@@ -31,3 +36,5 @@ text.bmp
 
 [useTextTexture]
 0
+
+[nocollision]

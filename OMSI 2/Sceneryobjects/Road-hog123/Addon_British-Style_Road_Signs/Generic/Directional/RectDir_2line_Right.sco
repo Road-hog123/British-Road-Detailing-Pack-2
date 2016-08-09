@@ -6,7 +6,7 @@ Road Signs
 Directional
 
 [friendlyname]
-Rectangular Direction Sign (2 Roads, Right)
+Rectangular Direction (2 Roads, Right)
 
 [texttexture]
 0

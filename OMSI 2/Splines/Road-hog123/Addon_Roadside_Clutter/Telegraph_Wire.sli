@@ -1,46 +1,10 @@
-
-
-[length]
-10
-
-Halbbreite des Bereiches, welcher in Kurven überhöht wird:
-
-[halfcantwidth]
-2
-
-Dann wird das Höhenprofil in der Querrichtung definiert. Hierzu wird jeweils Start- und Endpunkt
-(von links aus gesehen) und dann die Höhe überm lokalen Koordinatensystem angegeben, jeweils vom ersten
-und zweiten Punkt:
-
-
-
-Zunächst werden die Texturen geladen (dies kann aber auch nach oder zwischen den folgenden Befehlen kommen, einzig
-die Reihenfolge entscheidet über die Nummer, 0-basiert)
-
 [texture]
-Telegraph_Wire.tga
+TelegraphWire.dds
 
 [matl_alpha]
 1
 
 [scaleTexByLength]
-
-
-Nun wird das (grafische) Profil definiert. Jeder zu extrudierende Spline kann mehrere Splinepunkte (mindestens 2)
-enthalten, die Normalen werden automatisch definiert. Die U-Koordinate der Textur muss in x-Richtung zeigen,
-die V-Koordinate wird anhand einer Art Steigung definiert: 0.2 (1/m) bedeutet bspw., dass nach 5m die V-Koordinate 1 beträgt.
-
-Der [profile]-Befehl gibt an, dass ein neues Profil erstellt wird, welches auch gleich die entsprechende Textur zugewiesen bekommt.
-
-
-Folgender Befehl schließlich definiert einen Profilpunkt. Zunächst x (quer, rechts positiv) und z (hoch),
-dann U und die Steigung von V. V beginnt stets mit 0.
-
-Achtung: damit Normalenvektor und Polysichtbarkeit stimmt, muss die Reihenfolge von links nach rechts laufen (damit die Oberseite sichtbar ist).
-
-
-
-
 
 [profile]
 0

@@ -8,19 +8,18 @@ Road Markings
 Bifurcation Arrow (Small, Right)
 
 [mesh]
-Arrow_Bifurcation_Small_Right.o3d
+Arrow_Bifurcation_Small_R.o3d
 
 [nocollision]
 
 [matl]
-symbols.tga
+symbols.dds
 0
 
 [matl_alpha]
 2
 
 [rendertype]
-4
+on_surface
 
-[matl_noZwrite]
-2
+[LightMapMapping]
