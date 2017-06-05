@@ -1,5 +1,5 @@
-Spline last edited by Road_hog123 19.04.2016.
-This Spline Represents a Road Marking to Diagram 1009 - Edge Line across Junction (150 mm wide Variant)
+Spline last edited by Road_hog123 29.04.2017.
+This Spline Represents a Road Marking to Diagram 1009 - Edge Line across Junction (200 mm wide Variant)
 Specified usage:
 - Extends Give Way or Stop line markings across entry half of minor road
 - 100 mm should be used except where the major road's edge line is thicker and the width is varied to match
@@ -9,8 +9,8 @@ Specified usage:
 ---------------------------
 
 [heightprofile]
--0.075
-0.075
+-0.100
+0.100
 0.100
 0.100
 
@@ -32,13 +32,13 @@ White.dds
 0
 
 [profilepnt]
--0.075
+-0.100
 0.105
 0.688
 0.278
 
 [profilepnt]
-0.075
+0.100
 0.105
 0.719
 0.278
