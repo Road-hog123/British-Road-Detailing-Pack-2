@@ -13,7 +13,7 @@ NoLoadingSingle.o3d
 [nocollision]
 
 [matl]
-Y_1-0.tga
+Yellow.dds
 0
 
 [matl_alpha]
