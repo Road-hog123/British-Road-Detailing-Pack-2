@@ -1,5 +1,5 @@
-## BRDP v2.1a:
-British Road Detailing Pack Version 2.1a for Omsi 2.
+## BRDP v2.2a:
+British Road Detailing Pack Version 2.2a for Omsi 2.
 Thank you for downloading this pack of British roads, markings, signs and clutter made by me, Road-hog123.
 
 All signs and road markings contained within this pack are made to conform as closely as possible to the DfT standards.
@@ -8,7 +8,7 @@ All road marking splines include usage guidelines at the top of the file to advi
 
 ### NOTES:
 - This pack has been made for Omsi 2 and WILL NOT WORK with Omsi 1 (it uses splines with transparency, a feature implemented in Omsi 2)
-- I cannot be held personally responsible if the installation of this pack directly or indirectly results in the breaking of your Omsi installation, installed map(s) or loss of data.
+- I cannot be held personally responsible if the installation of this pack directly or indirectly results in the breaking of your Omsi installation or installed map(s); or loss of data.
 
 
 ### INSTALLATION:
@@ -53,6 +53,29 @@ OR:
 
 
 ### CHANGELOG:
+2.2a:
+# Marking splines:
+- Fixed EdgeLine_Junc_200.sli not being 200mm wide
+- Removed duplicate splines (which didn't get removed in 2.1 as intended):
+    CentreLine_Warning_100.sli => CentreLine_Warn_100.sli
+    CentreLine_Warning_150.sli => CentreLine_Warn_150.sli
+    CentreLine_Warning2_100.sli => CentreLine_Warn2_100.sli
+    CentreLine_Warning2_150.sli => CentreLine_Warn2_150.sli
+    SolidLine_500.sli => ChevronLine_500.sli
+- Removed markings deprecated in 2.1
+
+# Signs:
+- Removed signs deprecated in 2.1
+
+
+2.2:
+# Marking objects:
+- Fixed rain not puddling on markings
+
+# Clutter:
+- Created painted and unpainted Pallisade fencing
+
+
 2.1a:
 # Marking splines:
 - Fixed Chevrons_both_####.sli (now they really are actually chevrons)
@@ -66,12 +89,6 @@ OR:
 - Halved polycount of all road marking splines
 - Road marking textures merged into appropriately sized DDS textures with less wasted space
 - Reduced or eliminated bump when driving over road marking splines (moved collision mesh down 2 cm with *.surf files)
-- Removed duplicate splines:
-    CentreLine_Warning_100.sli => CentreLine_Warn_100.sli
-    CentreLine_Warning_150.sli => CentreLine_Warn_150.sli
-    CentreLine_Warning2_100.sli => CentreLine_Warn2_100.sli
-    CentreLine_Warning2_150.sli => CentreLine_Warn2_150.sli
-    SolidLine_500.sli => ChevronLine_500.sli
 - Chevrons_####.sli flipped to correct orientation (but still hatchings instead of chevrons)
 - Chevrons_inv_####.sli created (equivalent to original splines)
 - Chevrons_both_####.sli created (actually chevrons)
@@ -107,6 +124,7 @@ OR:
 - Created "Look Left", "Look Right" and "Look Both Ways" markings
 - Created custom small text marking
 - Created speed camera measurement lines marking
+- Removed "Large" variants of "Disabled", "Taxis" and "Slow" markings (use non-Large variants instead)
 
 # Clutter:
 - Created Fence_Wood_A.sli and Fence_Wood_B.sli
