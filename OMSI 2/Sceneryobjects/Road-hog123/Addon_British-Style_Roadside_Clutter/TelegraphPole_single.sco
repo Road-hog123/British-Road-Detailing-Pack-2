@@ -6,7 +6,7 @@ Road Objects
 Clutter
 
 [friendlyname]
-Single Telegraph Pole
+Telegraph Pole (Single)
 
 --------------------------
 
@@ -14,7 +14,7 @@ Single Telegraph Pole
 TP_single.o3d
 
 [matl]
-Telegraph_Poles.dds
+TP_single.dds
 0
 
 [matl_alpha]
