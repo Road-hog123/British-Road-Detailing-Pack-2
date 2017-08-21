@@ -1,7 +1,8 @@
 # British Road Detailing Pack for OMSI 2
-British roads, markings, signs and clutter
+British Road Markings, Road Signs, Roads and Roadside Clutter.
 
 All signs and road markings contained within this pack are made to conform as closely as possible to the DfT standards.
+
 All road marking splines include usage guidelines at the top of the file to advise on how to use them.
 
 ## Notes:
