@@ -1,4 +1,4 @@
-File created by Road-hog123, 20.02.2015.
+Object last edited by Road_hog123 20.08.2017.
 
 [groups]
 3
@@ -25,10 +25,16 @@ test
 BusStopFlag.o3d
 
 [matl]
-TextField.bmp
-0
+BusStopFlag.bmp
+1
 
 [useTextTexture]
+0
+
+[matl_texadress_border]
+0
+0
+0
 0
 
 [matl_alpha]
