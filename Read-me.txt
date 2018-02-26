@@ -1,5 +1,5 @@
-## BRDP v2.2a:
-British Road Detailing Pack Version 2.2a for Omsi 2.
+## BRDP v2.3:
+British Road Detailing Pack Version 2.3 for OMSI 2.
 Thank you for downloading this pack of British roads, markings, signs and clutter made by me, Road-hog123.
 
 All signs and road markings contained within this pack are made to conform as closely as possible to the DfT standards.
@@ -7,20 +7,20 @@ All road marking splines include usage guidelines at the top of the file to advi
 
 
 ### NOTES:
-- This pack has been made for Omsi 2 and WILL NOT WORK with Omsi 1 (it uses splines with transparency, a feature implemented in Omsi 2)
-- I cannot be held personally responsible if the installation of this pack directly or indirectly results in the breaking of your Omsi installation or installed map(s); or loss of data.
+- This pack has been made for OMSI 2 and WILL NOT WORK with OMSI 1 (it uses splines with transparency, a feature implemented in OMSI 2)
+- I cannot be held personally responsible if the installation of this pack directly or indirectly results in the breaking of your OMSI 2 installation or installed map(s); or loss of data.
 
 
 ### INSTALLATION:
 1. Replace any uses of files that are to be removed in this version with those that will be kept (see changelog)
-2. Locate your Omsi 2 installation directory (by default "C:\Program Files (x86)\Steam\steamapps\common\OMSI 2\" on 64-bit Windows systems or "C:\Program Files\Steam\steamapps\common\OMSI 2\" on 32-bit Windows).
+2. Locate your OMSI 2 installation directory (by default "C:\Program Files (x86)\Steam\steamapps\common\OMSI 2\" on 64-bit Windows systems or "C:\Program Files\Steam\steamapps\common\OMSI 2\" on 32-bit Windows).
 3. If a previous version of my pack is installed (i.e. the directory structure in this download already exists in the install location), remove it before installing this version. Note that in doing so you get a "proper" clean install of this pack with no extra files, but as such you may break maps that utilise files that have been deprecated and removed. (See Redistribution if you're a map maker and want to avoid this).
-4. Copy the contents of the "OMSI 2" folder included in this ZIP archive into the "OMSI 2" folder you identified as your Omsi 2 installation directory.
+4. Copy the contents of the "OMSI 2" folder included in this ZIP archive into the "OMSI 2" folder you identified as your OMSI 2 installation directory.
 5. If you have to overwrite files other than the previous version's fonts, you have either not removed a previous copy or are installing the pack into the wrong location.
 
 
 ### TROUBLESHOOTING:
-- If the installation of this pack breaks your Omsi install, you've done something wrong. It's not meant to do that. Undo what you did and try again reading the installation instructions carefully.
+- If the installation of this pack breaks your OMSI install, you've done something wrong. It's not meant to do that. Undo what you did and try again reading the installation instructions carefully.
 - If the installation of this pack breaks an installed map, sorry. Check if the map has an update that fixes problem with this release. If it does not, then you will either have to revert the pack to an earlier release, edit the map yourself to fix the problems or make the map work with its own copy of the pack (see redistribution with a map).
 - If there are missing files, corrupt files or otherwise broken files, check if these problems have been reported on the download thread(s). If they have, follow any fix instructions given or wait until a fixed release. If not, in the case of data corruption, you download may have corrupted and you should try re-downloading and installing again. If you believe the problem to lie with the release, please report it to me such that I may fix the problem.
 
@@ -53,6 +53,19 @@ OR:
 
 
 ### CHANGELOG:
+2.3:
+# Marking splines:
+- Fixed YellowBar.sli not having a bump
+
+# Clutter:
+- Fixed lighting bug with fence splines
+- Improved single telegraph pole (new 9.5M pole model and textures)
+- Improved telegraph wire texture
+- Created 400kV electricity pylon (for distant scenery) and wires
+- Added specular to speed camera
+- Added specular and improved text mapping on bus stop flags
+
+
 2.2a:
 # Marking splines:
 - Fixed EdgeLine_Junc_200.sli not being 200mm wide
