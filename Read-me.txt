@@ -65,6 +65,9 @@ OR:
 - Added specular to speed camera
 - Added specular and improved text mapping on bus stop flags
 
+# DEPRECATIONS:
+- Addon_British-Style_Roads to be removed in 2.4. Use alternative road/pavement splines from iomexLH, whistlehead roadways, O3D_SimpleCrossingSplines, etc..
+
 
 2.2a:
 # Marking splines:

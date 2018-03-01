@@ -29,6 +29,22 @@ Source Files:
 - Please acknowledge that you used my source material when releasing modifications.
 
 ## Changelog:
+###2.3:
+#### Marking splines:
+- Fixed YellowBar.sli not having a bump
+
+#### Clutter:
+- Fixed lighting bug with fence splines
+- Improved single telegraph pole (new 9.5M pole model and textures)
+- Improved telegraph wire texture
+- Created 400kV electricity pylon (for distant scenery) and wires
+- Added specular to speed camera
+- Added specular and improved text mapping on bus stop flags
+
+#### DEPRECATIONS:
+- Addon_British-Style_Roads to be removed in 2.4. Use alternative road/pavement splines from iomexLH, whistlehead roadways, O3D_SimpleCrossingSplines, etc..
+
+
 ### 2.2a:
 #### Marking splines:
 - Fixed EdgeLine_Junc_200.sli not being 200mm wide
