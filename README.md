@@ -29,6 +29,11 @@ Source Files:
 - Please acknowledge that you used my source material when releasing modifications.
 
 ## Changelog:
+###2.3a:
+#### Marking objects:
+- Fixed prefab line markings disappearing when wet
+
+
 ###2.3:
 #### Marking splines:
 - Fixed YellowBar.sli not having a bump

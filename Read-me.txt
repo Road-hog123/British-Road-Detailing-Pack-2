@@ -1,5 +1,5 @@
-## BRDP v2.3:
-British Road Detailing Pack Version 2.3 for OMSI 2.
+## BRDP v2.3a:
+British Road Detailing Pack Version 2.3a for OMSI 2.
 Thank you for downloading this pack of British roads, markings, signs and clutter made by me, Road-hog123.
 
 All signs and road markings contained within this pack are made to conform as closely as possible to the DfT standards.
@@ -53,6 +53,11 @@ OR:
 
 
 ### CHANGELOG:
+2.3a:
+# Marking objects:
+- Fixed prefab line markings disappearing when wet
+
+
 2.3:
 # Marking splines:
 - Fixed YellowBar.sli not having a bump
@@ -218,5 +223,5 @@ Known Bugs:
 
 Once again, thank you for downloading this pack. Enjoy! :)
 
-This pack contents (c) Copyright 2016 - Nathan Burnham (Road-hog123, Road_hog123, Roadhog123).
+This pack contents (c) Copyright 2015-2018 - Nathan Burnham (Road-hog123, Road_hog123, Roadhog123).
 
