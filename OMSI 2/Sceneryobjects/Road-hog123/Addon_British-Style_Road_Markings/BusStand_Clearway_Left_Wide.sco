@@ -27,7 +27,7 @@ Yellow.dds
 0
 
 [matl_alpha]
-1
+2
 
 [rendertype]
 on_surface
