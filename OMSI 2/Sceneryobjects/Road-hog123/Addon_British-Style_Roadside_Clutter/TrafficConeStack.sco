@@ -7,19 +7,19 @@ Road Objects
 Clutter
 
 [friendlyname]
-Traffic Cone (750 mm)
+Traffic Cone Stack (750 mm)
 
 --------------------------
 
 [mesh]
-Cone.o3d
+ConeStack.o3d
 
 [boundingbox]
 0.200
 0.200
-0.750
+0.930
 0.000
 0.000
-0.375
+0.465
 
 [shadow]
