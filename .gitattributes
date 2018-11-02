@@ -1,0 +1,44 @@
+# Generic non-LFS .gitattributes for OMSI projects
+
+# Force CRLF, because OMSI is a Windows-only game
+* eol=crlf
+
+# Model Source Files
+*.blend binary
+*.x text
+
+# Texture Source Files
+*.pdn binary
+*.svg text eol=lf
+
+# Model Files
+*.o3d binary
+
+# Script Files
+*.osc text
+*.txt text
+
+# Sound Files
+*.wav binary
+
+# Texture Files
+*.bmp binary
+*.dds binary
+*.png binary
+*.tga binary
+
+# Config Files
+*.bus text
+*.cfg text
+*.cti text
+*.itx text
+*.oft text
+*.ovh text
+*.sco text
+*.sli text
+*.surf text
+
+# Read-me Files
+*.md text
+*.pdf binary
+*.rtf binary
