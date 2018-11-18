@@ -21,7 +21,7 @@ Transport Heavy
 [texttexture_enh]
 1
 Transport Heavy
-480
+637
 64
 0
 35
@@ -33,7 +33,7 @@ Transport Heavy
 [texttexture_enh]
 2
 Transport Heavy
-93
+637
 64
 0
 35
@@ -45,7 +45,7 @@ Transport Heavy
 [texttexture_enh]
 3
 Transport Heavy
-480
+637
 64
 0
 35
@@ -57,7 +57,7 @@ Transport Heavy
 [texttexture_enh]
 4
 Transport Heavy
-93
+637
 64
 0
 35
@@ -69,7 +69,7 @@ Transport Heavy
 [texttexture_enh]
 5
 Transport Heavy
-480
+637
 64
 0
 35
@@ -81,7 +81,7 @@ Transport Heavy
 [texttexture_enh]
 6
 Transport Heavy
-93
+637
 64
 0
 35
@@ -93,7 +93,7 @@ Transport Heavy
 [texttexture_enh]
 7
 Transport Heavy
-480
+637
 64
 0
 35
@@ -105,7 +105,7 @@ Transport Heavy
 [texttexture_enh]
 8
 Transport Heavy
-93
+637
 64
 0
 35

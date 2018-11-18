@@ -21,7 +21,7 @@ Transport Medium
 [texttexture_enh]
 1
 Transport Medium
-480
+637
 64
 0
 255
@@ -33,7 +33,7 @@ Transport Medium
 [texttexture_enh]
 2
 Transport Medium
-93
+637
 64
 0
 255

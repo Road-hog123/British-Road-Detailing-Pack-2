@@ -11,7 +11,7 @@ Flag-type Direction (1 Destination, Right)
 [texttexture_enh]
 0
 Transport Heavy
-480
+637
 64
 0
 35
@@ -23,7 +23,7 @@ Transport Heavy
 [texttexture_enh]
 1
 Transport Heavy
-93
+637
 64
 0
 35

@@ -11,7 +11,7 @@ A-Road Flag-type Direction (1 Destination, Right)
 [texttexture_enh]
 0
 Transport Medium
-480
+637
 64
 0
 255
@@ -23,7 +23,7 @@ Transport Medium
 [texttexture_enh]
 1
 Transport Medium
-93
+637
 64
 0
 255
