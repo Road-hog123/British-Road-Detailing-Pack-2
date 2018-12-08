@@ -67,8 +67,8 @@ Finger2.tga
 1
 
 [matl]
-TextField.bmp
-0
+Finger2.tga
+1
 
 [useTextTexture]
 1
@@ -77,8 +77,8 @@ TextField.bmp
 2
 
 [matl]
-TextField.bmp
-1
+Finger2.tga
+2
 
 [useTextTexture]
 0
@@ -87,18 +87,18 @@ TextField.bmp
 2
 
 [matl]
-TextField.bmp
-2
-
-[useTextTexture]
-2
-
-[matl_alpha]
-2
-
-[matl]
-TextField.bmp
+Finger2.tga
 3
+
+[useTextTexture]
+2
+
+[matl_alpha]
+2
+
+[matl]
+Finger2.tga
+4
 
 [useTextTexture]
 3

@@ -125,28 +125,28 @@ RouteConfirm4.tga
 1
 
 [matl]
-TextField.bmp
-0
-
-[useTextTexture]
-0
-
-[matl_alpha]
-2
-
-[matl]
-TextField.bmp
+RouteConfirm4.tga
 1
 
 [useTextTexture]
+0
+
+[matl_alpha]
+2
+
+[matl]
+RouteConfirm4.tga
+2
+
+[useTextTexture]
 2
 
 [matl_alpha]
 2
 
 [matl]
-TextField.bmp
-2
+RouteConfirm4.tga
+3
 
 [useTextTexture]
 1
@@ -155,8 +155,8 @@ TextField.bmp
 2
 
 [matl]
-TextField.bmp
-3
+RouteConfirm4.tga
+4
 
 [useTextTexture]
 3
@@ -165,18 +165,18 @@ TextField.bmp
 2
 
 [matl]
-TextField.bmp
-4
-
-[useTextTexture]
-4
-
-[matl_alpha]
-2
-
-[matl]
-TextField.bmp
+RouteConfirm4.tga
 5
+
+[useTextTexture]
+4
+
+[matl_alpha]
+2
+
+[matl]
+RouteConfirm4.tga
+6
 
 [useTextTexture]
 6
@@ -185,8 +185,8 @@ TextField.bmp
 2
 
 [matl]
-TextField.bmp
-6
+RouteConfirm4.tga
+7
 
 [useTextTexture]
 5
@@ -195,18 +195,18 @@ TextField.bmp
 2
 
 [matl]
-TextField.bmp
-7
-
-[useTextTexture]
-7
-
-[matl_alpha]
-2
-
-[matl]
-TextField.bmp
+RouteConfirm4.tga
 8
+
+[useTextTexture]
+7
+
+[matl_alpha]
+2
+
+[matl]
+RouteConfirm4.tga
+9
 
 [useTextTexture]
 8

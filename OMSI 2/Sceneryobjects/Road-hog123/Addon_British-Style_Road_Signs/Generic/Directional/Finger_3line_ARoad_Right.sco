@@ -91,8 +91,8 @@ Finger3A.tga
 1
 
 [matl]
-TextField.bmp
-0
+Finger3A.tga
+1
 
 [useTextTexture]
 1
@@ -101,8 +101,8 @@ TextField.bmp
 2
 
 [matl]
-TextField.bmp
-1
+Finger3A.tga
+2
 
 [useTextTexture]
 0
@@ -111,8 +111,8 @@ TextField.bmp
 2
 
 [matl]
-TextField.bmp
-2
+Finger3A.tga
+3
 
 [useTextTexture]
 2
@@ -121,28 +121,28 @@ TextField.bmp
 2
 
 [matl]
-TextField.bmp
-3
-
-[useTextTexture]
-3
-
-[matl_alpha]
-2
-
-[matl]
-TextField.bmp
+Finger3A.tga
 4
 
 [useTextTexture]
+3
+
+[matl_alpha]
+2
+
+[matl]
+Finger3A.tga
+5
+
+[useTextTexture]
 5
 
 [matl_alpha]
 2
 
 [matl]
-TextField.bmp
-5
+Finger3A.tga
+6
 
 [useTextTexture]
 4

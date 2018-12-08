@@ -43,8 +43,8 @@ Finger1A.tga
 1
 
 [matl]
-TextField.bmp
-0
+Finger1A.tga
+1
 
 [useTextTexture]
 1
@@ -53,8 +53,8 @@ TextField.bmp
 2
 
 [matl]
-TextField.bmp
-1
+Finger1A.tga
+2
 
 [useTextTexture]
 0
