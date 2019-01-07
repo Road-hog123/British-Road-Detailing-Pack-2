@@ -59,7 +59,6 @@ OR:
 - Added "No Waiting" Cone
 - Added stack of road cones
 - Improved road cone texture mapping
-- Added blank/empty advert to possible adverts on Insignia bus shelter
 
 # Signs:
 - Work-around for text-overflow map-bricking bug (destination and distance fields now occupy the full width of the sign)
