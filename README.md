@@ -1,5 +1,5 @@
-# British Road Detailing Pack for OMSI 2
-British Road Markings, Road Signs, Roads and Roadside Clutter.
+# British Road Detailing Pack 2 for OMSI 2
+British Road Markings, Road Signs and Roadside Clutter.
 
 All signs and road markings contained within this pack are made to conform as closely as possible to the DfT standards.
 
@@ -29,6 +29,24 @@ Source Files:
 - Please acknowledge that you used my source material when releasing modifications.
 
 ## Changelog:
+### 2.4:
+#### Clutter:
+- Fixed texture bleed bug with LED traffic light
+- Added "No Waiting" Cone
+- Added stack of road cones
+- Improved road cone texture mapping
+- Added blank/empty advert to possible adverts on Insignia bus shelter
+
+#### Signs:
+- Work-around for text-overflow map-bricking bug (destination and distance fields now occupy the full width of the sign)
+- Added P620 variant "Except for access" supplementary plate
+- Added P772 "Tramcar Crossing without Barriers"
+- Added P963.3 "Tramway with traffic proceeding in both directions"
+
+#### DEPRECATIONS:
+- Addon_British-Style_Roads removed.
+
+
 ### 2.3a:
 #### Marking objects:
 - Fixed prefab line markings disappearing when wet

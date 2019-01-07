@@ -1,6 +1,6 @@
-## BRDP v2.3a:
-British Road Detailing Pack Version 2.3a for OMSI 2.
-Thank you for downloading this pack of British roads, markings, signs and clutter made by me, Road-hog123.
+## BRDP v2.4:
+British Road Detailing Pack Version 2.4 for OMSI 2.
+Thank you for downloading this pack of British road markings, road signs and roadside clutter made by me, Road-hog123.
 
 All signs and road markings contained within this pack are made to conform as closely as possible to the DfT standards.
 All road marking splines include usage guidelines at the top of the file to advise on how to use them.
@@ -53,6 +53,24 @@ OR:
 
 
 ### CHANGELOG:
+2.4:
+# Clutter:
+- Fixed texture bleed bug with LED traffic light
+- Added "No Waiting" Cone
+- Added stack of road cones
+- Improved road cone texture mapping
+- Added blank/empty advert to possible adverts on Insignia bus shelter
+
+# Signs:
+- Work-around for text-overflow map-bricking bug (destination and distance fields now occupy the full width of the sign)
+- Added P620 variant "Except for access" supplementary plate
+- Added P772 "Tramcar Crossing without Barriers"
+- Added P963.3 "Tramway with traffic proceeding in both directions"
+
+# DEPRECATIONS:
+- Addon_British-Style_Roads removed.
+
+
 2.3a:
 # Marking objects:
 - Fixed prefab line markings disappearing when wet
@@ -217,11 +235,10 @@ OR:
 - Snow textures included from the beginning
 
 Known Bugs:
-- Some signs may not have attachment points to attach signs beneath them.
+- Some signs may not have attachment points to attach further signs beneath them.
 - Poles aren't casting shadows. Not sure what is causing this.
-- Entering text too long in the signs can cause the sign to vanish and stop other tiles loading.
+- Overflowing the right-aligned text fields on the Finger Directional and Route Confirmatory signs causes the sign to disappear. If the text overflow is not fixed, it will brick the map.
 
 Once again, thank you for downloading this pack. Enjoy! :)
 
-This pack contents (c) Copyright 2015-2018 - Nathan Burnham (Road-hog123, Road_hog123, Roadhog123).
-
+This pack contents (c) Copyright 2015-2019 - Nathan Burnham (Road-hog123, Road_hog123, Roadhog123).
