@@ -1,5 +1,6 @@
-## BRDP v2.4:
-British Road Detailing Pack Version 2.4 for OMSI 2.
+## BRDP 2.4a (2019-01-30):
+British Road Detailing Pack version 2.4a for OMSI 2.
+
 Thank you for downloading this pack of British road markings, road signs and roadside clutter made by me, Road-hog123.
 
 All signs and road markings contained within this pack are made to conform as closely as possible to the DfT standards.
@@ -20,9 +21,9 @@ All road marking splines include usage guidelines at the top of the file to advi
 
 
 ### TROUBLESHOOTING:
-- If the installation of this pack breaks your OMSI install, you've done something wrong. It's not meant to do that. Undo what you did and try again reading the installation instructions carefully.
+- If the installation of this pack breaks your OMSI install, you've done something wrong. It's not meant to do that. Undo what you did and try again, reading the installation instructions carefully.
 - If the installation of this pack breaks an installed map, sorry. Check if the map has an update that fixes problem with this release. If it does not, then you will either have to revert the pack to an earlier release, edit the map yourself to fix the problems or make the map work with its own copy of the pack (see redistribution with a map).
-- If there are missing files, corrupt files or otherwise broken files, check if these problems have been reported on the download thread(s). If they have, follow any fix instructions given or wait until a fixed release. If not, in the case of data corruption, you download may have corrupted and you should try re-downloading and installing again. If you believe the problem to lie with the release, please report it to me such that I may fix the problem.
+- If there are missing files, corrupt files or otherwise broken files, check if these problems have been reported on the download thread. If they have, follow any fix instructions given or wait until a fixed release. If not, in the case of data corruption, your download may have been corrupted and you should try re-downloading and installing again. If you believe the problem to lie with the release, please report it to me such that I may fix the problem.
 
 
 ### REDISTRIBUTION:
@@ -36,7 +37,7 @@ OR:
 - You MUST include your modified content in a separate subdirectory of Sceneryobjects and/or Splines (e.g. "\Sceneryobjects\YourMap\Road-hog123\") such that your modifications do not overwrite my files and/or affect other maps.
 
 # Unchanged independent of a map:
-- Link to the download page. The download page is mirrored on aussiex.org and forums.fellowsfilm.co.uk and a further two direct download links are provided from Dropbox and GitHub if the download hosting is down, so there's no need to upload the file anywhere else.
+- Link to the download page. The download page is on fellowsfilm.com and a further two direct download links are provided from Dropbox and GitHub if the download hosting is down, so there's no need to upload the file anywhere else.
 - Uploading this pack elsewhere also prevents that download link serving the most up-to-date version automatically.
 
 # Modified independent of a map:
@@ -49,10 +50,23 @@ OR:
 
 # Claiming my content as your own:
 - If you claim this pack that I made myself as something you made, you're not a nice person and you should feel bad. Shame on you.
-- If you also include this file unchanged, which lists "Road-hog123" as the creator of this pack and not you, you're also an idiot.
+
+
+### KNOWN BUGS:
+- Some signs may not have attachment points to attach further signs beneath them.
+- Poles aren't casting shadows. Not sure what is causing this.
+- Overflowing the right-aligned text fields on the Finger Directional and Route Confirmatory signs causes the sign to disappear and brick that tile.
 
 
 ### CHANGELOG:
+2.4a:
+# Signs:
+- Added P2602-3 "Cycle Route Number" which mysteriously disappeared between 2.0.3 and 2.0.4
+
+# DEPRECATIONS:
+- Addon_British-Style_Roads removed
+
+
 2.4:
 # Clutter:
 - Fixed texture bleed bug with LED traffic light
@@ -65,9 +79,6 @@ OR:
 - Added P620 variant "Except for access" supplementary plate
 - Added P772 "Tramcar Crossing without Barriers"
 - Added P963.3 "Tramway with traffic proceeding in both directions"
-
-# DEPRECATIONS:
-- Addon_British-Style_Roads removed.
 
 
 2.3a:
@@ -232,12 +243,3 @@ OR:
 - 38 Poles to mount them on
 - Completely re-created all Road Markings better than ever before
 - Snow textures included from the beginning
-
-Known Bugs:
-- Some signs may not have attachment points to attach further signs beneath them.
-- Poles aren't casting shadows. Not sure what is causing this.
-- Overflowing the right-aligned text fields on the Finger Directional and Route Confirmatory signs causes the sign to disappear. If the text overflow is not fixed, it will brick the map.
-
-Once again, thank you for downloading this pack. Enjoy! :)
-
-This pack contents (c) Copyright 2015-2019 - Nathan Burnham (Road-hog123, Road_hog123, Roadhog123).

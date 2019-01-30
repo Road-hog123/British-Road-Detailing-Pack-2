@@ -29,6 +29,14 @@ Source Files:
 - Please acknowledge that you used my source material when releasing modifications.
 
 ## Changelog:
+### 2.4a:
+#### Signs:
+- Added P2602-3 "Cycle Route Number" which mysteriously disappeared between 2.0.3 and 2.0.4
+
+#### DEPRECATIONS:
+- Addon_British-Style_Roads removed
+
+
 ### 2.4:
 #### Clutter:
 - Fixed texture bleed bug with LED traffic light
@@ -41,9 +49,6 @@ Source Files:
 - Added P620 variant "Except for access" supplementary plate
 - Added P772 "Tramcar Crossing without Barriers"
 - Added P963.3 "Tramway with traffic proceeding in both directions"
-
-#### DEPRECATIONS:
-- Addon_British-Style_Roads removed.
 
 
 ### 2.3a:
