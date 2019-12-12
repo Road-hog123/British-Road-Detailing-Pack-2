@@ -1,5 +1,5 @@
-## BRDP 2.4a (2019-01-30):
-British Road Detailing Pack version 2.4a for OMSI 2.
+## BRDP 2.4b (2019-12-15):
+British Road Detailing Pack version 2.4b for OMSI 2.
 
 Thank you for downloading this pack of British road markings, road signs and roadside clutter made by me, Road-hog123.
 
@@ -59,6 +59,14 @@ OR:
 
 
 ### CHANGELOG:
+2.4b:
+# Signs:
+- Fixed buses crashing into signs mounted above the road
+
+# Clutter:
+- Added amber central-reservation marker post variant of edge marker post
+
+
 2.4a:
 # Signs:
 - Added P2602-3 "Cycle Route Number" which mysteriously disappeared between 2.0.3 and 2.0.4

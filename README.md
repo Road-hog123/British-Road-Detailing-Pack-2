@@ -29,6 +29,14 @@ Source Files:
 - Please acknowledge that you used my source material when releasing modifications.
 
 ## Changelog:
+### 2.4b:
+#### Signs:
+- Fixed buses crashing into signs mounted above the road
+
+#### Clutter:
+- Added amber central-reservation marker post variant of edge marker post
+
+
 ### 2.4a:
 #### Signs:
 - Added P2602-3 "Cycle Route Number" which mysteriously disappeared between 2.0.3 and 2.0.4

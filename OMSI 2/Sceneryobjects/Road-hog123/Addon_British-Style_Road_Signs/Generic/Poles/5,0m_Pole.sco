@@ -13,9 +13,13 @@ Poles
 
 [shadow]
 
-[crashmode_pole]
+[boundingbox]
+0
+0
+2.5
 0.05
-0.5
+0.05
+5.0
 
 ####################
 Attachments
