@@ -58,6 +58,8 @@ TextField.bmp
 [matl_alpha]
 2
 
+[nocollision]
+
 ##### Attachments
 
 [new_attachment]

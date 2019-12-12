@@ -18,9 +18,7 @@ Speed Limit 20 mph (600 mm)
 [matl_alpha]
 1
 
-[crashmode_pole]
-0.05
-0.5
+[nocollision]
 
 ##### Attachments
 

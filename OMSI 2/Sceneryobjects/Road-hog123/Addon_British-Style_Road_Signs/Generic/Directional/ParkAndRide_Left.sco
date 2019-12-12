@@ -18,9 +18,7 @@ ParkAndRide_L.tga
 [matl_alpha]
 1
 
-[crashmode_pole]
-0.05
-0.5
+[nocollision]
 
 [new_attachment]
 
