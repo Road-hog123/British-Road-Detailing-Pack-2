@@ -29,8 +29,8 @@ Transport Heavy
 35
 31
 32
-5
-0
+2
+1
 
 [mesh]
 Finger1L.o3d
