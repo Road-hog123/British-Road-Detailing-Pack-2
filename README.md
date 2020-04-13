@@ -29,6 +29,11 @@ Source Files:
 - Please acknowledge that you used my source material when releasing modifications.
 
 ## Changelog:
+### 2.4c:
+#### Signs:
+- Fixed text alignment issue affecting the distance field on left-pointing non-primary single-line finger sign
+
+
 ### 2.4b:
 #### Signs:
 - Fixed buses crashing into signs mounted above the road

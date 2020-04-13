@@ -1,5 +1,5 @@
-## BRDP 2.4b (2019-12-15):
-British Road Detailing Pack version 2.4b for OMSI 2.
+## BRDP 2.4c (2020-04-13):
+British Road Detailing Pack version 2.4c for OMSI 2.
 
 Thank you for downloading this pack of British road markings, road signs and roadside clutter made by me, Road-hog123.
 
@@ -59,6 +59,11 @@ OR:
 
 
 ### CHANGELOG:
+2.4c:
+# Signs:
+- Fixed text alignment issue affecting the distance field on left-pointing non-primary single-line finger sign
+
+
 2.4b:
 # Signs:
 - Fixed buses crashing into signs mounted above the road
