@@ -20,7 +20,6 @@ You are permitted to redistribute the contents of the release zips as follows:
 - You are free to use the release content in any freeware or payware map.
 - You are free to include the release content in the download of your map.
 - You are free to modify the release content and redistribute that modified content standalone or with a map.
-- Full Content Redistribution Information: https://www.dropbox.com/s/scz85686qwjqvji/_ContentRedistributionInfo.txt
 
 Source Files:
 - These can help you to modify the release content to your liking.

@@ -1,44 +1,36 @@
-# Generic non-LFS .gitattributes for OMSI projects
-
-# Force CRLF, because OMSI is a Windows-only game
-* eol=crlf
+* eol=lf working-tree-encoding=UTF-8 encoding=UTF-8
+[attr]omsi text eol=crlf working-tree-encoding=CP1252 encoding=CP1252 -linguist-detectable
 
 # Model Source Files
 *.blend binary
-*.x text
+*.x text eol=crlf working-tree-encoding=CP1252 encoding=CP1252 linguist-language=DirectX-3D-File linguist-generated
 
 # Texture Source Files
 *.pdn binary
-*.svg text eol=lf
 
 # Model Files
 *.o3d binary
 
-# Script Files
-*.osc text
-*.txt text
-
-# Sound Files
-*.wav binary
-
 # Texture Files
 *.bmp binary
 *.dds binary
-*.png binary
 *.tga binary
+*.surf binary
+
+# Script Files
+*.osc omsi
+*.txt omsi
 
 # Config Files
-*.bus text
-*.cfg text
-*.cti text
-*.itx text
-*.oft text
-*.ovh text
-*.sco text
-*.sli text
-*.surf text
+*.cfg omsi
+*.cti omsi
+*.oft omsi
+*.sco omsi
+*.sli omsi
 
-# Read-me Files
-*.md text
-*.pdf binary
-*.rtf binary
+# Repository Files
+LICENSE text
+README.md text
+README.txt text eol=crlf
+.gitignore text
+.gitattributes text
